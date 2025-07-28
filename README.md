@@ -51,19 +51,16 @@ The trained model was used to score new customers and identify those at high ris
 
 Here are snapshots of the final interactive dashboards built in Power BI.
 
-### **Historical Churn Analysis**
-<p align="center">
-  This dashboard provides a comprehensive overview of historical churn data, analyzing patterns across demographics, account information, and geography.
-</p>
+### <p align="center"><i>Historical Churn Analysis</i></p>
+This dashboard provides a comprehensive overview of historical churn data, analyzing patterns across demographics, account information, and geography.
 
-![Historical Churn Dashboard]((https://github.com/priyanshu6329/End-to-End-Customer-Churn-Analysis-Prediction/blob/main/Dashboard%20Main.PNG?raw=true))
+![Historical Churn Dashboard](https://github.com/priyanshu6329/End-to-End-Customer-Churn-Analysis-Prediction/blob/main/Dashboard%20w%20tooltip.PNG?raw=true)
 
-### **Predicted Churners Dashboard**
-<p align="center">
-  This dashboard page lists the new customers identified by the machine learning model as being at a high risk of churning, providing an actionable list for the marketing team.
-</p>
+### <p align="center"><i>Predicted Churners Dashboard</i></p>
+This dashboard page lists the new customers identified by the machine learning model as being at a high risk of churning, providing an actionable list for the marketing team.
 
-![Predicted Churn Dashboard](YOUR_PREDICTION_DASHBOARD_SCREENSHOT_LINK_HERE)
+![Predicted Churn Dashboard](https://github.com/priyanshu6329/End-to-End-Customer-Churn-Analysis-Prediction/blob/main/Churn%20Prediction.PNG?raw=true)
+
 ## ✅ How to Reproduce
 
 To set up and run this project, follow these steps:
